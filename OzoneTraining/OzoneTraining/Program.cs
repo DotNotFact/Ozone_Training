@@ -27,3 +27,5 @@ static string CheckIsValid(int[] ships)
     var result = ((count[1] == 4) && (count[2] == 3) && (count[3] == 2) && (count[1] == 4)) ? "Yes" : "No";
     return result;
 }
+
+// Добавить top-level statements
